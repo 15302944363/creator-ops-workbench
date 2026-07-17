@@ -1,0 +1,8 @@
+﻿node_modules
+dist
+.pnpm
+.pnpm-store
+vite.log
+vite-error.log
+gh-auth-out.txt
+gh-auth-err.txt
